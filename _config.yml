@@ -19,3 +19,5 @@ github_username:  xhmyjzc
 markdown: kramdown
 
 theme: jekyll-theme-cayman
+
+plugins: - jekyll-sitemap
