@@ -20,4 +20,5 @@ markdown: kramdown
 
 theme: jekyll-theme-cayman
 
-plugins: - jekyll-sitemap
+plugins:
+- jekyll-sitemap
